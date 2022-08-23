@@ -16,6 +16,7 @@
 		C08419CF28B57B38000723FD /* SwiftUnitTestExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08419CE28B57B38000723FD /* SwiftUnitTestExampleTests.swift */; };
 		C08419D928B57B38000723FD /* SwiftUnitTestExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08419D828B57B38000723FD /* SwiftUnitTestExampleUITests.swift */; };
 		C08419DB28B57B38000723FD /* SwiftUnitTestExampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08419DA28B57B38000723FD /* SwiftUnitTestExampleUITestsLaunchTests.swift */; };
+		C08419E928B57C07000723FD /* MathemathicFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08419E828B57C07000723FD /* MathemathicFunctions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C08419D428B57B38000723FD /* SwiftUnitTestExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUnitTestExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C08419D828B57B38000723FD /* SwiftUnitTestExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUnitTestExampleUITests.swift; sourceTree = "<group>"; };
 		C08419DA28B57B38000723FD /* SwiftUnitTestExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUnitTestExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C08419E828B57C07000723FD /* MathemathicFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MathemathicFunctions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				C08419C028B57B37000723FD /* Assets.xcassets */,
 				C08419C228B57B37000723FD /* LaunchScreen.storyboard */,
 				C08419C528B57B37000723FD /* Info.plist */,
+				C08419E828B57C07000723FD /* MathemathicFunctions.swift */,
 			);
 			path = SwiftUnitTestExample;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				C08419BC28B57B33000723FD /* ViewController.swift in Sources */,
 				C08419B828B57B33000723FD /* AppDelegate.swift in Sources */,
 				C08419BA28B57B33000723FD /* SceneDelegate.swift in Sources */,
+				C08419E928B57C07000723FD /* MathemathicFunctions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
